@@ -1,0 +1,1 @@
+Smart plant watering is an ESP32 learning project using capacitive soil probe; reservoir float switch; MOSFET-driven low-voltage pump. It measures soil moisture proxy and publishes validated telemetry over Wi-Fi and TLS MQTT for houseplant hobbyists. Includes wiring, calibration, source code, sample data, provisioning, safety notes, field guidance.
